@@ -86,7 +86,7 @@ img {
 
 .two{
     width: 100%;
-    height: 500px;
+    height: 410px;
 }
 
 h3 {
@@ -130,4 +130,40 @@ h3 {
     margin-right: 30px;
     margin-left: 2px;
     margin-top: 34px;
+}
+
+.three {
+    display: flex;
+    width: 100%;
+    height: 300px;
+    background-color: #e5e7eb;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.third-container {
+    width: 813px;
+}
+
+.my-text {
+    width: 785px;
+    color: #1f2937;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 36px;
+    margin-bottom: 61px;
+    display: flex;
+    position: relative;
+}
+
+.my-text::after {
+    content: "-Thor, God of Thunder";
+    position: absolute;
+    font-size: 20px;
+    font-weight: 600;
+    left: 564px;
+    top: 161px;
+    font-style: normal;
+
 }
