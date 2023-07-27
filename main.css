@@ -236,8 +236,18 @@ h4 {
     left: 682px;
 }
 
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    background-color: #1f2937;
+}
 
-
+.footer-text {
+    color: white;
+    font-size: 17px;
+}
 
 
 
