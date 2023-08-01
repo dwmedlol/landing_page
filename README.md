@@ -17,6 +17,6 @@
 
 ## Image Credits
 
-- **Background Image: Sunset at Beach**
+- **Background Image: Strawberry*
   - Creator: Photo by Анна Романченко 
   - Source: https://www.pexels.com/photo/photo-of-strawberries-3186961/
